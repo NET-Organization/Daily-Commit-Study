@@ -6,7 +6,7 @@ Git은 "분산 버전 관리 시스템"으로, 개발 과정에서 **소스 코�
 
 Git을 사용하면 코드의 버전 관리가 가능하고, 누가, 언제, 어떤 코드를 수정했는지 알 수 있기 때문에 협업하기 편리합니다.
 
-따라서, Git을 사용하는 이유는 **개발할 때 편리하게 협업**할 수 있기ㄷ 때문입니다.
+따라서, Git을 사용하는 이유는 **개발할 때 편리하게 협업**할 수 있기 때문입니다.
 
 
 Github은 Git을 기반으로 한 웹 호스팅 서비스입니다. 더 편하게 Git 을 사용할 수 있도록 Github가 Git을 기반으로 온라인 서비스를 제공해준다고 생각하면 됩니다. 
@@ -26,6 +26,7 @@ git이 잘 설치되었는지 로컬 터미널에서 확인합니다.
 git --version
 ```
 잘 설치되었으면 아래와 같이 버전이 뜹니다. 안 뜨면 다시 설치해주세요!
+
 <img width="383" alt="image" src="https://github.com/user-attachments/assets/44da4b19-0ea3-4e05-b957-01cc956fcd72">
 
 ### 4. 로컬에 github 계정 정보 등록하기
@@ -45,6 +46,7 @@ git config --global user.email email@khu.ac.kr
 git config -l
 ```
 아래 사진처럼 뜨지 않으면 다시 등록해주세요.
+
 <img width="399" alt="image" src="https://github.com/user-attachments/assets/60d636e3-cd80-42fa-bded-96006cb7fc00">
 
 ## ⚒️ git 사용하기 
@@ -68,6 +70,7 @@ Repository 이름, 설명을 적어주고 몇 가지 항목들을 선택한 뒤 
 vscode와 같은 프로그램을 사용한다고 했을 때, 새로 생성한 폴더를 열고, 터미널을 열어서 명령어를 입력하면 됩니다. 
 
 아래 사진에서 파란색 부분의 링크를 복사합니다. (https://github.com.cowboysj/test.git)
+
 <img width="974" alt="image" src="https://github.com/user-attachments/assets/be7683d8-3fe6-4c0a-a6cd-14e2b62e40b3">
 
 ```
@@ -162,7 +165,7 @@ git checkout -b 새로 만들 브랜치명
 ```
 
 
-🔗 참고문헌
+### 🔗 참고문헌
 https://github.com/KennethanCeyer/tutorial-git?tab=readme-ov-file
 
 https://modulabs.co.kr/blog/git-and-github-for-beginners/
