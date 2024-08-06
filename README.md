@@ -2,9 +2,9 @@
 
 ## 🧑‍🤝‍🧑 스터디원
 
-|<img width="150" src = "https://avatars.githubusercontent.com/u/108571492?v=4"/>|
-|:---:|
-|[김수진(스터디장)](https://github.com/cowboysj)|
+|<img src = "https://avatars.githubusercontent.com/u/108571492?v=4"/>|<img src="https://avatars.githubusercontent.com/u/67246681?v=4"/>|![image](https://github.com/user-attachments/assets/5ec9b880-1b29-4196-a9d4-c0c3798cc184)| ![image](https://github.com/user-attachments/assets/a20bea85-ca65-4555-96c8-ce791ba97d01)|![image](https://github.com/user-attachments/assets/fe767137-1f94-446b-8229-bda180901b25)| ![image](https://github.com/user-attachments/assets/5c10c1ee-c0d6-4f99-b977-661f37d1c526)|![image](https://github.com/user-attachments/assets/c69e7524-03f8-4180-a96e-b2383d780dbc)| ![image](https://github.com/user-attachments/assets/9ea7842c-e12e-4f6c-8eb7-ec8be8873e40)|![image](https://github.com/user-attachments/assets/bb0212a4-7820-4f79-a706-d023d3ecd1f2)|![image](https://github.com/user-attachments/assets/a32c29b4-496b-479b-a8b4-90f65f2aa29b)|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[김수진<br>(스터디장)](https://github.com/cowboysj)|[이준호](https://github.com/junstory)|[황종훈](https://github.com/hoonly01) |[장영주](https://github.com/youngju6143) |[김민아](https://github.com/minahkim03) |[오승연](https://github.com/SeungyeonO)|[문강민](https://github.com/kkkmin1005) |[이현빈](https://github.com/2hyunbin) |[권서연](https://github.com/elregansekwon)|[김혜란](https://github.com/hyeran1216) |
 
 ## ✨ 스터디 진행 방식
 
