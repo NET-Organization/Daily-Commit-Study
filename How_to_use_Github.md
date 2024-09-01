@@ -1,3 +1,5 @@
+
+
 # 👾 Git 사용법
 
 ## Git과 Github
@@ -169,3 +171,5 @@ git checkout -b 새로 만들 브랜치명
 https://github.com/KennethanCeyer/tutorial-git?tab=readme-ov-file
 
 https://modulabs.co.kr/blog/git-and-github-for-beginners/
+
+> 잘못된 내용이 있을 시 `su10jin11@khu.ac.kr`로 메일주시면 감사하겠습니다!
