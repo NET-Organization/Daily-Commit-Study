@@ -13,9 +13,9 @@
 <details>
    <summary> 2️⃣ 2024 2학기 스터디원👫</summary>
 
-|<img src = "https://avatars.githubusercontent.com/u/108571492?v=4"/>|<img src="https://avatars.githubusercontent.com/u/67246681?v=4"/>|![image](https://github.com/user-attachments/assets/5ec9b880-1b29-4196-a9d4-c0c3798cc184)| ![image](https://github.com/user-attachments/assets/a20bea85-ca65-4555-96c8-ce791ba97d01)|![image](https://github.com/user-attachments/assets/c69e7524-03f8-4180-a96e-b2383d780dbc)|
-|:---:|:---:|:---:|:---:|:---:|
-|[김수진<br>(스터디장)](https://github.com/cowboysj)|[이준호](https://github.com/junstory)|[황종훈](https://github.com/hoonly01) |[장영주](https://github.com/youngju6143) |[문강민](https://github.com/kkkmin1005) |
+|<img src = "https://avatars.githubusercontent.com/u/108571492?v=4"/>|<img src="https://avatars.githubusercontent.com/u/67246681?v=4"/>|![image](https://github.com/user-attachments/assets/5ec9b880-1b29-4196-a9d4-c0c3798cc184)| ![image](https://github.com/user-attachments/assets/a20bea85-ca65-4555-96c8-ce791ba97d01)|![image](https://github.com/user-attachments/assets/c69e7524-03f8-4180-a96e-b2383d780dbc)|![image](https://github.com/user-attachments/assets/149fc1e4-5918-4a69-aff0-b61f04f05ce4)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[김수진<br>(스터디장)](https://github.com/cowboysj)|[이준호](https://github.com/junstory)|[황종훈](https://github.com/hoonly01) |[장영주](https://github.com/youngju6143) |[문강민](https://github.com/kkkmin1005) |[강희주](https://github.com/Kang-heeju)|
 
 </details>
 
